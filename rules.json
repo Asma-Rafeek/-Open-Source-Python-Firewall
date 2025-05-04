@@ -1,0 +1,12 @@
+[
+    {
+        "name": "blockn",
+        "src_ip": "192.168.96.136",
+        "dst_ip": "nibmworldwide.com",
+        "protocol": "icmp",
+        "port": "any",
+        "action": "deny",
+        "direction": "both",
+        "permanent": true
+    }
+]
