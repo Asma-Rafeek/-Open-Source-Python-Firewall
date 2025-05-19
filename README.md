@@ -31,6 +31,7 @@ Port number
 
 
 🧰 Tech Stack
+
 Core Scripting: Python, Bash
 Frontend (GUI): HTML, CSS, JavaScript
 OS/Platform: Ubuntu (Linux)
